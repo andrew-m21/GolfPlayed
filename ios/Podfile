@@ -1,0 +1,10 @@
+platform :ios, '10.0'
+inhibit_all_warnings!
+
+target 'GolfPlayed' do
+  use_frameworks!
+  pod 'Fabric'
+  pod 'Crashlytics', '~> 3.9'
+  pod 'Firebase/Core'
+end
+

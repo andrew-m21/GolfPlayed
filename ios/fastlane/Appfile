@@ -1,0 +1,7 @@
+app_identifier "com.golfplayed.react.ios.beta" # The bundle identifier of your app
+apple_id "byron@eightysix.io" # Your Apple email address
+
+team_id "R48ADFT5YT" # Developer Portal Team ID
+
+# you can even provide different app identifiers, Apple IDs and team names per lane:
+# More information: https://docs.fastlane.tools/advanced/#appfile
